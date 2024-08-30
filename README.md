@@ -1,4 +1,4 @@
-# Veracity Kubernetes session
+# Veracity Kubernetes session notes
 
 
 #### K8s manifest files 
