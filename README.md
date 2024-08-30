@@ -1,6 +1,9 @@
 # Veracity Kubernetes session notes
 
-
+#### Kubernetes documentation & tutorials
+    https://kubernetes.io/docs/home/
+    https://kubernetes.io/docs/tutorials/kubernetes-basics/
+    
 #### K8s manifest files 
 * mongo-config.yaml
 * mongo-secret.yaml
