@@ -1,8 +1,5 @@
 # Veracity Kubernetes session notes
 
-#### Kubernetes documentation & tutorials
-    https://kubernetes.io/docs/home/
-    https://kubernetes.io/docs/tutorials/kubernetes-basics/
     
 #### K8s manifest files 
 * mongo-config.yaml
@@ -55,7 +52,6 @@ If you can't access the NodePort service webapp with `MinikubeIP:NodePort`, exec
 * mongodb image on Docker Hub: https://hub.docker.com/_/mongo
 * webapp image on Docker Hub: https://hub.docker.com/repository/docker/nanajanashia/k8s-demo-app
 * k8s official documentation: https://kubernetes.io/docs/home/
-* webapp code repo: https://gitlab.com/nanuchi/developing-with-docker/-/tree/feature/k8s-in-hour
 
 
 ##### AWS & EKS related commands
